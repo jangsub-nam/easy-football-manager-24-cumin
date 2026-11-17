@@ -188,4 +188,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Football Manager 2024 · Updated 2026-11-16 · Shared under the MIT License*
+*Football Manager 2024 · Updated 2026-11-17 · Shared under the MIT License*
